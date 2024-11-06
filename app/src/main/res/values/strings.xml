@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Assesment</string>
+    <string name="username">\@%1$s</string>
+    <string name="email">Email: %1$s</string>
+    <string name="phonenumber">Phone: %1$s</string>
+    <string name="address">Address: %1$s, %2$s, %3$s</string>
+    <string name="fullname">%1$s %2$s</string>
+    <string name="total">Total: $%1$s</string>
+</resources>
